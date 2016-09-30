@@ -6,7 +6,6 @@
 \usepackage{float}
 \usepackage{placeins}
 \usepackage{hyperref}
-\usepackage{breakurl}
 \usepackage{url}
 
 %Document Info
